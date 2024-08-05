@@ -1,14 +1,24 @@
-<!---
+# Hey, I'm Lynden Tennyson
+*Web Content and Layouts*
+Pronouns: They/Them
+Location: Northern Virginia, United States
 
-- 👋 Hi, I’m @ltennyso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Known Languages
+- HTML
+- CSS
+- Javascript
 
+## Known Platforms and Software
+- Wordpress
+- Drupal
+- Adobe Photoshop
+- Canva 
+- MS Office Suite
+- Google Office Suite
+- GitHub
 
-ltennyso/ltennyso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+- Accessibility
+- Retro Web
+- Content Management Systems
+
