@@ -1,6 +1,8 @@
 # Hey, I'm Lynden Tennyson
 *Web Content and Layouts*
+
 Pronouns: They/Them
+
 Location: Northern Virginia, United States
 
 ## Known Languages
