@@ -21,6 +21,5 @@ Location: Northern Virginia, United States
 
 ## Interests
 - Accessibility
-- Retro Web
 - Content Management Systems
 
